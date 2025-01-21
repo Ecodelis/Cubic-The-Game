@@ -16,4 +16,3 @@
 - **Original Sound and Music**: All visuals, audio, and music in the game are crafted by myself!
 - **Dynamic Level Expansion**: The game grows in complexity over time, testing your reflexes and adaptability.
 - **Simple Controls**: Intuitive and responsive controls make the game easy to pick up but challenging to master.
-- **Engaging Gameplay**: The combination of increasing difficulty and the scoring system keeps players motivated.
